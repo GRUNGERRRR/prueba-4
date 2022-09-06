@@ -56,7 +56,7 @@ li a {
 }
 #fila-1{
     text-align: center;
-    padding-top: -40%;
+    padding-top: 0%;
     margin: 0%;
     display: inline-flex;
 }
@@ -76,7 +76,7 @@ li a {
 }
 #fila-2{
     text-align: center;
-    padding-top: -40%;
+    padding-top: 0%;
     margin: 0%;
     display: inline-flex;
     margin: 0%;
@@ -91,12 +91,43 @@ li a {
     margin-left: 25%;
     border: .7em solid #dcdcdc;
 }
-
-#parrafo-rojito{
-    background-color: red;
-    border: 1px;
-    size: 1px;
+.img-7{
+    background-image: url("img/riotgamescom-forge.jpg");
+    margin-left: 30em;
+    background-repeat: no-repeat;
+    padding: 22em 15em 2em 2em;
 }
-p{
-    size: 1px;
+.parrafo-1{
+    background-color: red;
+    padding: 1em 1em 1em 1em;
+    font-size: x-small;
+    width: 16em;
+    color: white;
+}
+.titulo-imagen{
+    color: white;
+}
+.texto{
+    color: white;
+    display: inline;
+    font-size: 80%;
+}
+.titulo-centrado{
+    text-align: center;
+    font-size: 140%;
+    padding-left: 1em;
+
+}
+#bottom-2{
+    margin: 2em 2em 2em 2em;
+
+}
+.bottomm-2{
+    padding: .5em;
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    border-radius: 3.125em;
+    font-size: 120%;
+    margin-left: 44em;
 }
